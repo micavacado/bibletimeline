@@ -9,6 +9,7 @@ export type BiblicalPeriod =
   | "exile"
   | "return"
   | "intertestamental"
+  | "jesus-ministry"
   | "new-testament"
   | "second-coming"
 

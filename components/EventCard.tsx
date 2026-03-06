@@ -20,6 +20,7 @@ const PERIOD_LABELS: Record<BiblicalPeriod, string> = {
   exile: "Exile",
   return: "Return from Exile",
   intertestamental: "Intertestamental Period",
+  "jesus-ministry": "The Life & Ministry of Jesus",
   "new-testament": "New Testament Era",
   "second-coming": "The Return of Christ",
 }
@@ -35,6 +36,7 @@ const PERIOD_ACCENT: Record<BiblicalPeriod, string> = {
   exile: "bg-blue-400",
   return: "bg-cyan-400",
   intertestamental: "bg-teal-400",
+  "jesus-ministry": "bg-sky-400",
   "new-testament": "bg-green-400",
   "second-coming": "bg-yellow-400",
 }
@@ -50,6 +52,7 @@ const PERIOD_BADGE: Record<BiblicalPeriod, string> = {
   exile: "bg-blue-100 text-blue-800",
   return: "bg-cyan-100 text-cyan-800",
   intertestamental: "bg-teal-100 text-teal-800",
+  "jesus-ministry": "bg-sky-100 text-sky-800",
   "new-testament": "bg-green-100 text-green-800",
   "second-coming": "bg-yellow-100 text-yellow-800",
 }

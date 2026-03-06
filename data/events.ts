@@ -1863,19 +1863,19 @@ export const events: TimelineEvent[] = [
         keyPeople: [],
       },
       {
-        id: "valley-of-dry-bones",
-        title: "The Valley of Dry Bones — National Resurrection",
-        summary:
-          "God brought Ezekiel in a vision to a valley full of very dry bones — representing the house of Israel: 'Our bones are dried up, and our hope is lost; we are clean cut off' (Ezekiel 37:11). God commanded Ezekiel to prophesy over the bones. As he prophesied, bones came together, sinews and flesh covered them, skin covered them — but there was no breath. Then Ezekiel prophesied to the breath/Spirit, and breath entered them and they lived — a vast army. The immediate meaning is the restoration of Israel from Babylonian exile. But the imagery of resurrection, Spirit-given life, and national regathering carries eschatological weight — pointing to Israel's final national restoration (Romans 11:25-27) and ultimately to the bodily resurrection of all believers.",
-        scriptures: ["Ezekiel 37:1-14", "Romans 11:25-27", "John 5:25-29"],
-        keyPeople: [],
-      },
-      {
         id: "new-covenant-ezekiel",
         title: "Ezekiel's New Covenant Promise — A New Heart and Spirit",
         summary:
           "Ezekiel 36:25-27 is one of the clearest pre-New-Testament descriptions of regeneration: 'I will sprinkle clean water on you, and you shall be clean from all your uncleannesses... And I will give you a new heart, and a new spirit I will put within you. And I will remove the heart of stone from your flesh and give you a heart of flesh. And I will put my Spirit within you, and cause you to walk in my statutes.' This is not moral improvement — it is a supernatural new creation. The same promise Jeremiah made regarding the New Covenant law written on the heart (Jeremiah 31:31-34) is here described in terms of the Spirit's indwelling transforming power. Jesus referred to this passage when He told Nicodemus he must be 'born of water and the Spirit' (John 3:5).",
         scriptures: ["Ezekiel 36:24-27", "Jeremiah 31:31-34", "John 3:5", "Titus 3:5"],
+        keyPeople: [],
+      },
+      {
+        id: "valley-of-dry-bones",
+        title: "The Valley of Dry Bones — National Resurrection",
+        summary:
+          "God brought Ezekiel in a vision to a valley full of very dry bones — representing the house of Israel: 'Our bones are dried up, and our hope is lost; we are clean cut off' (Ezekiel 37:11). God commanded Ezekiel to prophesy over the bones. As he prophesied, bones came together, sinews and flesh covered them, skin covered them — but there was no breath. Then Ezekiel prophesied to the breath/Spirit, and breath entered them and they lived — a vast army. The immediate meaning is the restoration of Israel from Babylonian exile. But the imagery of resurrection, Spirit-given life, and national regathering carries eschatological weight — pointing to Israel's final national restoration (Romans 11:25-27) and ultimately to the bodily resurrection of all believers.",
+        scriptures: ["Ezekiel 37:1-14", "Romans 11:25-27", "John 5:25-29"],
         keyPeople: [],
       },
     ],
@@ -2353,7 +2353,7 @@ export const events: TimelineEvent[] = [
   {
     id: "incarnation",
     title: "The Incarnation: The Word Became Flesh",
-    period: "new-testament",
+    period: "jesus-ministry",
     summary:
       "In the fullness of time — when the Roman road system unified travel, Greek unified language, and Pax Romana created relative peace for the spread of a message — 'God sent forth His Son, born of woman, born under the law, to redeem those who were under the law' (Galatians 4:4–5). The eternal Son of God, through whom all things were created (John 1:3; Colossians 1:16), took on human flesh through the virgin Mary (Isaiah 7:14; Matthew 1:22–23) without ceasing to be fully God. He was laid in a manger because there was no room in the inn (Luke 2:7) — the Creator of the universe entering His creation in poverty and obscurity. The angels announced His birth to shepherds — the lowest of the social hierarchy — not to kings or philosophers. John's Gospel opens with the most staggering theological declaration in all of literature: 'In the beginning was the Word, and the Word was with God, and the Word was God... And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth' (John 1:1, 14).",
     scriptures: [
@@ -2462,7 +2462,7 @@ export const events: TimelineEvent[] = [
   {
     id: "crucifixion-resurrection",
     title: "The Crucifixion and Resurrection of Jesus Christ",
-    period: "new-testament",
+    period: "jesus-ministry",
     summary:
       "The crucifixion of Jesus of Nazareth on the cross at Golgotha under the Roman prefect Pontius Pilate was simultaneously the greatest crime in human history and the supreme act of divine grace. It was not a tragedy that overtook God's plan — it was the plan: 'This Jesus, delivered up according to the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men' (Acts 2:23). On the cross, the sinless Son of God bore the full weight of God's wrath against sin for all who believe: 'For our sake he made him to be sin who knew no sin, so that in him we might become the righteousness of God' (2 Corinthians 5:21). His cry of dereliction — 'My God, my God, why have you forsaken me?' (Matthew 27:46, Psalm 22:1) — is the only moment in eternity that the Father turned from the Son. Three days later, on the first day of the week, the tomb was empty. The resurrection is the cornerstone of the Christian faith: 'If Christ has not been raised, your faith is futile and you are still in your sins' (1 Corinthians 15:17). Over 500 eyewitnesses saw Him alive after His resurrection (1 Corinthians 15:6). His enemies could not produce a body. The disciples were transformed from terrified fugitives into bold martyrs who died proclaiming what they had seen.",
     scriptures: [
@@ -3417,19 +3417,19 @@ export const events: TimelineEvent[] = [
     ],
     subEvents: [
       {
-        id: "twelve-spies",
-        title: "The Twelve Spies and the People's Unbelief",
-        summary:
-          "Moses sends twelve spies into Canaan. After 40 days, Caleb and Joshua urge immediate entry: 'We are well able.' The other ten discourage the people: 'We seemed to ourselves like grasshoppers.' The congregation weeps all night and talks of choosing a new leader to return to Egypt. God's patience reaches its limit.",
-        scriptures: ["Numbers 13–14"],
-        keyPeople: [],
-      },
-      {
         id: "manna-from-heaven",
         title: "Manna and Quail from Heaven",
         summary:
           "When Israel grumbles for food in the wilderness, God provides quail in the evening and manna ('What is it?') each morning — a fine, flake-like substance tasting like honey wafers. The manna cannot be stored overnight (it breeds worms) except on Friday when a double portion must be gathered for the Sabbath. The lesson: daily dependence on God.",
         scriptures: ["Exodus 16:1–35", "Numbers 11:7–9"],
+        keyPeople: [],
+      },
+      {
+        id: "twelve-spies",
+        title: "The Twelve Spies and the People's Unbelief",
+        summary:
+          "Moses sends twelve spies into Canaan. After 40 days, Caleb and Joshua urge immediate entry: 'We are well able.' The other ten discourage the people: 'We seemed to ourselves like grasshoppers.' The congregation weeps all night and talks of choosing a new leader to return to Egypt. God's patience reaches its limit.",
+        scriptures: ["Numbers 13–14"],
         keyPeople: [],
       },
       {
@@ -3754,7 +3754,7 @@ export const events: TimelineEvent[] = [
   {
     id: "jesus-baptism-and-temptation",
     title: "The Baptism and Temptation of Jesus",
-    period: "new-testament",
+    period: "jesus-ministry",
     summary:
       "Before Jesus' public ministry begins, two defining events mark His identity and mission. At His baptism in the Jordan, the heavens tear open: the Spirit descends as a dove and the Father speaks — 'This is my beloved Son, with whom I am well pleased.' The Trinity is manifest over the waters. Immediately, the Spirit drives Jesus into the wilderness for 40 days of fasting and temptation by the devil. Where Israel failed for 40 years in the wilderness, Jesus succeeds perfectly. He answers every temptation with Scripture, refuses the devil's kingdoms, and emerges from the wilderness in the power of the Spirit.",
     dateOptions: [
@@ -3831,7 +3831,7 @@ export const events: TimelineEvent[] = [
   {
     id: "jesus-ministry-miracles",
     title: "The Ministry and Miracles of Jesus",
-    period: "new-testament",
+    period: "jesus-ministry",
     summary:
       "For roughly three years Jesus travels through Galilee and Judea — teaching in synagogues, healing the sick, casting out demons, feeding thousands, raising the dead, and calling twelve men to follow Him. He proclaims the arrival of the Kingdom of God in word (Sermon on the Mount, parables) and deed (miracles as signs of the Kingdom). Crowds follow; the religious establishment opposes. He heals lepers, opens blind eyes, restores withered hands, stills storms, walks on water, and raises Lazarus four days in the tomb. He calls Himself the bread of life, the light of the world, the good shepherd, the resurrection and the life. He heals on the Sabbath deliberately to reveal that He is Lord of the Sabbath.",
     dateOptions: [
@@ -3908,7 +3908,7 @@ export const events: TimelineEvent[] = [
   {
     id: "last-supper-and-gethsemane",
     title: "The Last Supper and Gethsemane",
-    period: "new-testament",
+    period: "jesus-ministry",
     summary:
       "On the night of Passover, Jesus gathers His twelve disciples in an upper room in Jerusalem. He washes their feet — the act of a slave — as an object lesson in servant leadership. He institutes the Lord's Supper: 'This is my body… this cup is the new covenant in my blood.' He prays for His disciples and for all future believers in John 17 — the High Priestly Prayer. Then He leads them to Gethsemane, where He falls to the ground in agony and prays: 'Not my will, but yours be done.' An angel strengthens Him. His sweat is like drops of blood. Judas arrives with a crowd. Jesus is arrested while His disciples scatter.",
     dateOptions: [
@@ -4676,7 +4676,7 @@ export const events: TimelineEvent[] = [
   {
     id: "triumphal-entry",
     title: "The Triumphal Entry",
-    period: "new-testament",
+    period: "jesus-ministry",
     summary:
       "Five days before His crucifixion, Jesus rides into Jerusalem on a donkey's colt — an animal on which no one has ever sat. The disciples spread their cloaks; others cut palm branches and carpet the road. The crowd shouts: 'Hosanna! Blessed is he who comes in the name of the Lord! Blessed is the coming kingdom of our father David!' The whole city is stirred. The Pharisees say: 'Look, the world has gone after him.' Zechariah had written 500 years earlier: 'Behold, your king is coming to you, humble, and mounted on a donkey.' Jesus weeps over Jerusalem from the Mount of Olives — 'Would that you, even you, had known on this day the things that make for peace! But now they are hidden from your eyes.'",
     dateOptions: [
@@ -4887,5 +4887,124 @@ export const events: TimelineEvent[] = [
       { eventId: "pentecost", note: "Paul's journeys are the international fulfillment of what Pentecost began in Jerusalem — the Spirit-empowered proclamation spreading to every nation under heaven." },
     ],
     tags: ["paul", "missionary", "journeys", "barnabas", "gentiles", "church planting", "rome", "acts", "gospel"],
+  },
+  {
+    id: "parables-of-jesus",
+    title: "The Parables of Jesus",
+    period: "jesus-ministry",
+    summary:
+      "Jesus taught primarily in parables — short earthly stories carrying profound heavenly meanings. He did this to reveal truth to those with ears to hear and to conceal it from those who rejected Him (Matthew 13:10–13). The parables are not mere illustrations; they are the Kingdom of God disclosed in narrative form. Every parable demands a response. Together they paint a full-color portrait of what God is like, what the Kingdom costs, what is lost and found, how grace works, and what awaits at the end of the age.",
+    scriptures: [
+      "Matthew 13:1–52",
+      "Luke 15:1–32",
+      "Luke 10:25–37",
+      "Matthew 25:14–30",
+      "Luke 18:9–14",
+      "Matthew 22:1–14",
+      "Luke 14:15–24",
+      "Matthew 20:1–16",
+    ],
+    dateOptions: [
+      {
+        label: "Throughout Jesus' Public Ministry (~AD 27–30)",
+        rangeAD: [27, 30],
+        scholars: ["D.A. Carson", "Craig Blomberg", "John MacArthur", "Joachim Jeremias"],
+        reasoning:
+          "The parables are spread across all three years of Jesus' public ministry as recorded in the Synoptic Gospels. Matthew 13 represents a concentrated 'parable discourse' likely delivered mid-ministry from a boat on the Sea of Galilee. Luke's travel narrative (Luke 9:51–19:44) contains the greatest concentration of parables unique to Luke.",
+        scriptureSupport: ["Matthew 13:1–3", "Luke 10:25", "Luke 15:1–3"],
+      },
+    ],
+    worldContext: [
+      {
+        title: "Parabolic Teaching in 1st-Century Judaism",
+        approximateYear: "AD 27–30",
+        civilization: "Roman Judea and Galilee",
+        notes:
+          "Parabolic teaching (Hebrew: mashal) was a recognized form of Jewish wisdom instruction. Rabbis used parables, but Jesus' parables were uniquely authoritative — He spoke as one with authority, not as the scribes (Matthew 7:29). His parables consistently placed Himself at the center of the Kingdom story in a way no rabbi would. When He said 'The Kingdom of Heaven is like...,' He was announcing that the Kingdom had arrived in His own person.",
+      },
+    ],
+    typology: [
+      {
+        category: "Pattern",
+        title: "Parables as Fulfillment of Psalm 78:2",
+        description:
+          "Matthew explicitly quotes Psalm 78:2 — 'I will open my mouth in parables; I will utter what has been hidden since the foundation of the world' — as fulfilled in Jesus' parabolic ministry. The hidden mysteries of the Kingdom, concealed in the Old Testament types and shadows, are now disclosed through the parables of the King Himself.",
+        oldTestamentRef: "Psalm 78:2",
+        newTestamentFulfillment: ["Matthew 13:34–35", "Colossians 1:26–27"],
+        scholars: ["D.A. Carson", "R.T. France"],
+      },
+    ],
+    subEvents: [
+      {
+        id: "parable-sower",
+        title: "The Parable of the Sower",
+        summary:
+          "A farmer scatters seed on four types of ground: the path (birds eat it — Satan snatches the Word), rocky soil (shallow faith withers under trial), thorny ground (worldly worries choke it), and good soil (producing 30, 60, 100-fold). Jesus explains this is the key to understanding all parables: the seed is the Word of God; the soils are the conditions of the human heart. The same gospel produces radically different results depending on how it is received. Only the good soil — those who hear, understand, and bear fruit — are truly saved.",
+        scriptures: ["Matthew 13:1–23", "Mark 4:1–20", "Luke 8:4–15"],
+        keyPeople: [],
+      },
+      {
+        id: "parable-mustard-seed-leaven",
+        title: "The Parables of the Mustard Seed and the Leaven",
+        summary:
+          "The Kingdom of Heaven is like a mustard seed — the smallest of seeds — that grows into the greatest of garden plants, so large that birds nest in its branches. And like leaven hidden in three measures of flour that eventually leavens the whole batch. Both parables teach the same truth: the Kingdom begins almost invisibly small (a Galilean carpenter, twelve ordinary men) but expands with unstoppable, transforming power through the whole earth. What looks insignificant by worldly standards contains within it the life of God.",
+        scriptures: ["Matthew 13:31–33", "Mark 4:30–32", "Luke 13:18–21"],
+        keyPeople: [],
+      },
+      {
+        id: "parable-wheat-tares",
+        title: "The Parable of the Wheat and the Tares",
+        summary:
+          "An enemy secretly sows weeds (tares/darnel — nearly identical to wheat) among the good grain. The servants want to pull them up immediately, but the master says wait until harvest: 'Lest in gathering the weeds you root up the wheat along with them.' At the harvest (the end of the age), angels will separate the two — the righteous shine like the sun in the kingdom, the wicked are gathered into bundles for burning. This parable explains why evil coexists with good in the world and in the Church — judgment is coming, but God alone will execute it in His time.",
+        scriptures: ["Matthew 13:24–43"],
+        keyPeople: [],
+      },
+      {
+        id: "parable-good-samaritan",
+        title: "The Parable of the Good Samaritan",
+        summary:
+          "A man is beaten, robbed, and left dying on the Jerusalem–Jericho road. A priest and a Levite each pass by on the other side. A Samaritan — a half-breed despised by the Jews — stops, bandages the wounds, places him on his own animal, takes him to an inn, and pays for his care. Jesus asks: 'Which of these three was a neighbor?' The lawyer who sought to justify himself by limiting who counted as 'neighbor' is undone. Neighbor is not a category to be defined but a posture to be lived — compassion that crosses every boundary.",
+        scriptures: ["Luke 10:25–37"],
+        keyPeople: [],
+      },
+      {
+        id: "parable-lost-sheep",
+        title: "The Parables of the Lost Sheep, Lost Coin, and Lost Son",
+        summary:
+          "Three consecutive parables in Luke 15, all given in response to Pharisees grumbling that Jesus 'receives sinners and eats with them.' A shepherd leaves 99 sheep to find one lost one and throws a party when it is found. A woman sweeps her whole house to find one lost coin and calls her neighbors to rejoice. And the prodigal son is welcomed back with a feast. All three parables climax with rejoicing in heaven over one sinner who repents. God's posture toward the lost is not reluctant tolerance but active, seeking, celebrating love. Jesus is defending His own ministry by revealing the heart of the Father.",
+        scriptures: ["Luke 15:1–32"],
+        keyPeople: [],
+      },
+      {
+        id: "parable-prodigal-son",
+        title: "The Parable of the Prodigal Son",
+        summary:
+          "A son demands his inheritance early — essentially wishing his father dead — then wastes it in reckless living. Starving and feeding pigs, he 'came to himself' and returned home rehearsing his confession. But his father sees him while he is still 'a great way off,' runs to him (shocking in ancient Middle Eastern culture for a patriarch), falls on his neck and kisses him. The son cannot finish his speech before the father orders robes, a ring, sandals, and a feast. The elder brother, furious outside, represents the Pharisees. The father goes out to him too. This parable is the fullest picture of God's grace in all of Scripture — the running father who restores, not just forgives.",
+        scriptures: ["Luke 15:11–32"],
+        keyPeople: [],
+      },
+      {
+        id: "parable-pharisee-tax-collector",
+        title: "The Parable of the Pharisee and the Tax Collector",
+        summary:
+          "Two men go up to the Temple to pray. The Pharisee thanks God that he is not like other men — fasting twice a week, tithing all he has. The tax collector, standing far off, beats his chest and prays only: 'God, be merciful to me, a sinner.' Jesus declares the tax collector — not the Pharisee — justified before God. 'For everyone who exalts himself will be humbled, and he who humbles himself will be exalted.' This parable destroys self-righteousness as a path to God and reveals that the only acceptable posture before God is desperate dependence on His mercy.",
+        scriptures: ["Luke 18:9–14"],
+        keyPeople: [],
+      },
+      {
+        id: "parable-talents",
+        title: "The Parable of the Talents (Minas)",
+        summary:
+          "A master entrusts his servants with talents before leaving on a long journey. Two double their master's money; one buries his out of fear. The fruitful servants are celebrated and entrusted with more; the fearful servant has even what he had taken away. This parable teaches stewardship of gifts, opportunities, and the gospel itself — every believer is accountable for what has been entrusted to them. The master's return is the Second Coming; the day of accounting is judgment.",
+        scriptures: ["Matthew 25:14–30", "Luke 19:11–27"],
+        keyPeople: [],
+      },
+    ],
+    relatedEvents: [
+      { eventId: "jesus-ministry-miracles", note: "The parables and the miracles are two sides of the same proclamation — the Kingdom of God has arrived. Miracles demonstrate Kingdom power; parables explain Kingdom principles." },
+      { eventId: "sermon-on-the-mount", note: "The Sermon on the Mount (Matthew 5–7) and the parables (Matthew 13) are the two great teaching discourses of Jesus' Galilean ministry — the Sermon describes Kingdom character, the parables describe Kingdom dynamics." },
+    ],
+    keyPeople: [],
+    tags: ["parables", "kingdom", "teaching", "prodigal son", "good samaritan", "sower", "mustard seed", "talents", "lost sheep", "grace", "judgment"],
   },
 ]

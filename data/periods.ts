@@ -178,12 +178,28 @@ export const periods: Period[] = [
     },
   },
   {
+    id: "jesus-ministry",
+    label: "The Life & Ministry of Jesus",
+    shortLabel: "Jesus' Ministry",
+    description:
+      "The fullness of time arrives. The eternal Son of God takes on human flesh, is born in Bethlehem, grows up in Nazareth, and begins His public ministry around age 30. He proclaims the Kingdom, teaches in parables, performs miracles, calls twelve disciples, and ultimately gives His life on the cross — rising from the dead on the third day and ascending to the Father.",
+    approximateDateLabel: "~5 BC–30 AD",
+    color: {
+      dot: "bg-sky-400",
+      text: "text-sky-700",
+      badge: "bg-sky-100 text-sky-800",
+      panel: "bg-sky-50",
+      border: "border-sky-200",
+      accent: "bg-sky-400",
+    },
+  },
+  {
     id: "new-testament",
     label: "New Testament Era",
     shortLabel: "New Testament",
     description:
-      "The fullness of time arrives. God the Son enters history as Jesus of Nazareth — the fulfillment of every covenant and prophecy. He dies, rises, and the Holy Spirit is poured out at Pentecost.",
-    approximateDateLabel: "~5 BC–100 AD",
+      "The Holy Spirit is poured out at Pentecost and the Church is born. The apostles carry the Gospel from Jerusalem to the ends of the earth. Paul plants churches across the Roman Empire. The New Testament letters are written, and the age of the Church begins.",
+    approximateDateLabel: "~30–100 AD",
     color: {
       dot: "bg-green-400",
       text: "text-green-700",
